@@ -1,0 +1,46 @@
+.navbar {
+    height: 1rem;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color:#E1F0DD;
+    text-decoration: none;
+    font-family: 'Girassol', cursive;
+  
+
+  }
+
+  .link{
+    padding-left: 2rem ;
+    text-decoration: none;
+    position:relative;
+    bottom: 10px;
+  }
+ 
+  .navbar2{
+      text-decoration: none;
+      display: flex;
+      justify-content: space-around;
+      
+  }
+  .activeStyle {
+    color: black;
+    text-decoration: none;
+    border-top: 2px solid black;
+  }
+
+  .span{
+    font-size: 2rem;
+    font-weight: 800;
+    color: rgb(65, 93, 93);
+    position: relative;
+    bottom: 19px;
+    
+  }
+  .recipe{
+    text-decoration: none;
+    position: relative;
+    bottom: 19px;
+    left: 5px;
+  }

@@ -1,0 +1,40 @@
+.container{
+    background-image: url('https://picsum.photos/1600/900');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Girassol', cursive;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Girassol', cursive;
+}
+
+.input{
+    height: 50px;
+    font-size: 2rem;
+    width: 250px;
+    border-radius: 5px;
+    font-family: 'Girassol', sans-serif;
+    background-color: rgba(0, 0, 0, 0.6);
+    border: none;
+    color: white;
+    margin: 1rem;
+    text-indent: 20px;
+    font-family: 'Girassol', cursive;
+}
+
+.img{
+    opacity: 0.5;
+    position: relative;
+    bottom: 20px;
+    left: 25px;
+    width: 250px;
+    border-radius: 50%;
+}

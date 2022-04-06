@@ -1,0 +1,50 @@
+.row{
+    padding-top: 5px;
+    
+ 
+}
+
+.img-thumbnail{
+    width: 50px;
+}
+
+.card {
+    box-shadow: 10px 10px 10px  rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 250px;
+    height: 25%;
+    background-color: aliceblue;
+    margin: 10px;
+  }
+  
+  .card:hover {
+    box-shadow: 10px 10px 10px  rgba(0,0,0,1);
+  }
+  
+  .container {
+
+    margin: 20px;
+  }
+
+  .img{
+      border-radius: 10px;
+      position: relative;
+      left: 30px;
+  }
+
+  .button{
+      position: relative;
+      left: 45px;
+      border: none;
+      background-color: rgb(86, 181, 181);
+      border-radius: 10px;
+      margin: auto;
+      padding: 10px;
+      font-size: 14px;
+      text-decoration: none;
+  }
+
+  .h5{
+      text-align: center;
+      margin: 10px;
+  }
